@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC03 - Create New Guest Profile From Folio - Not Done</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5dc29035-5420-4add-b728-55af37ad67fa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_CO01</name>
+   <tag></tag>
+   <elementGuidId>8d39b954-71df-4055-9870-4a6a26f1ce6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div/div[4]/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;CO01&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3a982b3b-2c2b-4225-bbbc-3e135bea106e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-gray-300 p-2  cursor-pointer underline text-[rgba(0,0,255,1)]  relative</value>
+      <webElementGuid>d508c158-f735-4372-ab59-f4f2ef89b7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CO01</value>
+      <webElementGuid>d8959bae-ce2d-4970-915b-f66d00dff401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;mt-2 min-w-full table-auto&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;shadow-lg table-auto m-2 min-w-full&quot;]/tbody[@class=&quot;w-full&quot;]/tr[@class=&quot;focus:!bg-[#ead6b4] hover:!bg-[#ead6b4]&quot;]/td[@class=&quot;bg-gray-300 p-2  cursor-pointer underline text-[rgba(0,0,255,1)]  relative&quot;]</value>
+      <webElementGuid>694cc0d8-f95f-464e-aac2-c626e63101d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div/div[4]/table/tbody/tr/td[3]</value>
+      <webElementGuid>88bb08b0-316d-4b80-a1e3-7eb6ae7b1dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Code Extra Bed'])[2]/following::td[3]</value>
+      <webElementGuid>cc590740-23ff-41b1-9fbd-6ed657882a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Code'])[2]/following::td[4]</value>
+      <webElementGuid>d508f629-f328-4861-8a52-a3fec6ccfca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CO01'])[2]/preceding::td[1]</value>
+      <webElementGuid>bbb3f287-709e-4807-b2cb-24dfc776d39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CO01'])[3]/preceding::td[2]</value>
+      <webElementGuid>6bf9a205-0958-4002-b9c6-83f9cc10af46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CO01']/parent::*</value>
+      <webElementGuid>eb358eac-f621-4c43-9d0b-b387778beb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/td[3]</value>
+      <webElementGuid>47f8a42e-f456-4a3c-af6c-e86ae3334d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'CO01' or . = 'CO01')]</value>
+      <webElementGuid>94e4de35-f423-4fd4-94b6-df558ffbf2d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

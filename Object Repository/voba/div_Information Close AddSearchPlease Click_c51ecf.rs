@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Information Close AddSearchPlease Click_c51ecf</name>
+   <tag></tag>
+   <elementGuidId>8f5c04a4-1605-41e1-b652-fea115d0031c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-2.min-w-full.table-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ca49d7b-b01a-4080-9ea9-3bd9db5e84c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 min-w-full table-auto</value>
+      <webElementGuid>a71c9d59-10a8-4439-8ace-e7297b3a43c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Information Close+ AddSearchPlease Click Search To Find The DataActiveAccount No.StatusNameNationalityTelephoneMobile PhoneNRICCard NumberGA000002 DANIEL SENDJAYAAlgeria098580598978544KTP7236790GA000003 YAMASHITA Cameroon1212121 KTP0000000000011GA000007 TAN HWA MONGJamaica-2121 KTPGA000011 DEVITO SINJAL- KTPGA000013  Guest For Folio#000011002  KTPGA000014  Guest For Folio#000011003  KTPGA000015    KTPGA000017    KTPGA000022 MAKOTO MIYAZAKICameroon1 KTPGA000023 MAMI MIYAZAKICameroon- Paspor1-3107 of 31061</value>
+      <webElementGuid>fd198218-6de4-445b-b462-ebf5b248adf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;mt-2 min-w-full table-auto&quot;]</value>
+      <webElementGuid>8728362c-b9a7-41f9-a658-e6c9cb183063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div</value>
+      <webElementGuid>e12bf7be-3263-4f4a-b85b-3148bfcffcf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Shift'])[1]/following::div[4]</value>
+      <webElementGuid>d7b09ac9-2bc9-409d-b73e-098baa7560e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New User 12'])[1]/following::div[7]</value>
+      <webElementGuid>9b9088e9-9642-4086-846d-df8a0bb4b203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div</value>
+      <webElementGuid>c0b485a7-cc02-4da4-99a0-ec28d85a494b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Information Close+ AddSearchPlease Click Search To Find The DataActiveAccount No.StatusNameNationalityTelephoneMobile PhoneNRICCard NumberGA000002 DANIEL SENDJAYAAlgeria098580598978544KTP7236790GA000003 YAMASHITA Cameroon1212121 KTP0000000000011GA000007 TAN HWA MONGJamaica-2121 KTPGA000011 DEVITO SINJAL- KTPGA000013  Guest For Folio#000011002  KTPGA000014  Guest For Folio#000011003  KTPGA000015    KTPGA000017    KTPGA000022 MAKOTO MIYAZAKICameroon1 KTPGA000023 MAMI MIYAZAKICameroon- Paspor1-3107 of 31061' or . = 'Information Close+ AddSearchPlease Click Search To Find The DataActiveAccount No.StatusNameNationalityTelephoneMobile PhoneNRICCard NumberGA000002 DANIEL SENDJAYAAlgeria098580598978544KTP7236790GA000003 YAMASHITA Cameroon1212121 KTP0000000000011GA000007 TAN HWA MONGJamaica-2121 KTPGA000011 DEVITO SINJAL- KTPGA000013  Guest For Folio#000011002  KTPGA000014  Guest For Folio#000011003  KTPGA000015    KTPGA000017    KTPGA000022 MAKOTO MIYAZAKICameroon1 KTPGA000023 MAMI MIYAZAKICameroon- Paspor1-3107 of 31061')]</value>
+      <webElementGuid>9dcb2382-0c8a-4019-ac4b-180ae9fc9138</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

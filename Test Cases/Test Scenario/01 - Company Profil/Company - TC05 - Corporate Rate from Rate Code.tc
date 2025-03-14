@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC05 - Corporate Rate from Rate Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c153bb6e-7c06-4b59-9c0c-7e15cafd1d5e</testCaseGuid>
+</TestCaseEntity>

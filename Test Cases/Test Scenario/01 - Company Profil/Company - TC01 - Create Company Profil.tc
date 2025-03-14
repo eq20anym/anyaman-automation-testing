@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC01 - Create Company Profil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e944a2d5-7816-41e4-aa8d-f99868eb6507</testCaseGuid>
+</TestCaseEntity>

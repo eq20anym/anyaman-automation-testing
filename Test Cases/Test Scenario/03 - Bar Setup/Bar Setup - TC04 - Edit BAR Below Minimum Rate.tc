@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bar Setup - TC04 - Edit BAR Below Minimum Rate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdadae98-7f7e-4711-b115-f0debdd2400e</testCaseGuid>
+</TestCaseEntity>

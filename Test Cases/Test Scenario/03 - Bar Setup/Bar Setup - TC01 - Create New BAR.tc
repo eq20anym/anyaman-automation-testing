@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bar Setup - TC01 - Create New BAR</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2b14ece-5ded-4f84-8a35-f506d79d4ff7</testCaseGuid>
+</TestCaseEntity>

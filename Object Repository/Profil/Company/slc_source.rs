@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slc_source</name>
+   <tag></tag>
+   <elementGuidId>40c3fceb-6f71-449a-8ca6-3c1a690ba91b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 h-fit  gap-4&quot;]/div[@class=&quot;col-span-4&quot;]/fieldset[@class=&quot;border&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4 ml-2 mb-4 mt-4 mr-2&quot;]/div[@class=&quot;col-span-12 xl:col-span-6&quot;]/div[@class=&quot;flex flex-col gap-1 min-w-max&quot;]/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control css-13cymwt-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]/div[@class=&quot;Select2__input-container css-19bb58m&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[1]/div/div[2]/div/div[1]/div/div/div[1]/fieldset[4]/div/div[2]/div/div/div/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .flex > #choices-multiple-default > .Select2__control > .Select2__value-container > .Select2__input-container >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67851320-3309-4d32-aad4-ff52880ded57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Select2__input-container css-19bb58m</value>
+      <webElementGuid>e9266b3d-c4c7-4fce-b1d0-6f91dad886d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 h-fit  gap-4&quot;]/div[@class=&quot;col-span-4&quot;]/fieldset[@class=&quot;border&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4 ml-2 mb-4 mt-4 mr-2&quot;]/div[@class=&quot;col-span-12 xl:col-span-6&quot;]/div[@class=&quot;flex flex-col gap-1 min-w-max&quot;]/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control css-13cymwt-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]/div[@class=&quot;Select2__input-container css-19bb58m&quot;]</value>
+      <webElementGuid>2c577f7a-e84b-41c6-97b8-3dca070c0705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='choices-multiple-default']/div/div/div[2])[4]</value>
+      <webElementGuid>566c2bbf-bfdf-494c-9686-a27cb35ab4f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/following::div[1]</value>
+      <webElementGuid>64fbe4d9-5100-42b1-8aba-5c3a45b60f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[5]</value>
+      <webElementGuid>f2f04827-f8e7-47c6-818f-4179fd5a6064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Address'])[1]/preceding::div[3]</value>
+      <webElementGuid>fdd205ba-d37e-4531-854e-ac903caff91a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::div[3]</value>
+      <webElementGuid>f51afb40-c131-47b1-9987-abf247ee21e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[4]/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>e1d7f201-d4e2-4229-a6fe-4c118db7584a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

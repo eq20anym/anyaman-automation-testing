@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC09 - New Company empty Market Segmentation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdb18c9e-c37f-41c1-bb52-7a7b6cdf9074</testCaseGuid>
+</TestCaseEntity>

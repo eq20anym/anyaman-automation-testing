@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rate Setup - TC02 - Make rate code without Rate Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cda20c7b-281d-4439-b3c0-080599de28d1</testCaseGuid>
+</TestCaseEntity>

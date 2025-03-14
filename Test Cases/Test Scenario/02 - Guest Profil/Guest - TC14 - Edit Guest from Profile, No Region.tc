@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC14 - Edit Guest from Profile, No Region</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef1021ce-b08a-489d-aac1-3a998a167418</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reservation  FIT</name>
+   <tag></tag>
+   <elementGuidId>723faca1-cf22-47d8-9c15-80723d4d8f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scroll']/div/div[2]/div/div/div/nav/div[8]/div[2]/a[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;ResFIT Reservation FIT&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>660477a9-ec08-4432-8acd-8bed3f102ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>capitalize</value>
+      <webElementGuid>c61f233c-4d25-4177-b4af-054db3b98244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reservation FIT</value>
+      <webElementGuid>14fd46bb-d219-443c-abc7-5ffdc68bea79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/nav[@class=&quot;mt-4&quot;]/div[8]/div[@class=&quot;ps-6&quot;]/a[@class=&quot;flex gap-4 items-center px-4 py-2 hover:font-bold hover:bg-[#4f4d4d]  text-white&quot;]/div[@class=&quot;capitalize&quot;]</value>
+      <webElementGuid>719c46fd-9d74-4318-8802-668686b9c88d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scroll']/div/div[2]/div/div/div/nav/div[8]/div[2]/a[2]/div[2]</value>
+      <webElementGuid>98027da5-fc86-45fa-91ca-c85191770de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ResFIT'])[1]/following::div[1]</value>
+      <webElementGuid>9bfe199f-1628-4554-b235-a2a5bde65f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Rate'])[1]/following::div[2]</value>
+      <webElementGuid>b0023717-1977-4baa-a700-9f24f987df9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ResGIT'])[1]/preceding::div[1]</value>
+      <webElementGuid>80017082-83c1-4322-a934-64c71233515d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservation GIT'])[1]/preceding::div[2]</value>
+      <webElementGuid>00189c39-fdcc-42b7-ac7f-f3bb9113846a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reservation FIT']/parent::*</value>
+      <webElementGuid>4b515c18-a52e-4125-a98e-290f877929d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]/div[2]</value>
+      <webElementGuid>2e524579-0f0a-4c85-8998-5228063491e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reservation FIT' or . = 'Reservation FIT')]</value>
+      <webElementGuid>620ab44c-7b55-459b-8929-0389f7066970</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rate Setup - TC01- Create New Rate Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c053cdc-1628-4509-9bf2-aab40b5a8573</testCaseGuid>
+</TestCaseEntity>

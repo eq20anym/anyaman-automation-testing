@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle_roomType_mjs</name>
+   <tag></tag>
+   <elementGuidId>db3a9e15-ecf4-470e-8abd-8452f9641705</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div[1]/div[2]/div[2]/div[1]/div[4]/div/div[2]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mt-2 > div > div:nth-child(4) > div > .grid > div > .label-primary >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5aaf7151-5bc4-407b-a032-c090dcc9fdb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>broom_type1</value>
+      <webElementGuid>6959d3a6-48c2-4235-9dba-f8b51f9090e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-primary mt-2 !w-[2.1rem]</value>
+      <webElementGuid>a85e11ad-fcd3-4254-b3a7-30b621cc10b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 h-fit  gap-2&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-6&quot;]/div[@class=&quot;mt-2&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4 ml-2 mb-2 mt-2 mr-2&quot;]/div[@class=&quot;col-span-6 border  border-dashed !border-blue rounded-md p-2&quot;]/div[1]/div[@class=&quot;grid grid-cols-12 gap-2&quot;]/div[@class=&quot;custom-toggle-switch toggle-sm col-span-6 items-center lg:flex&quot;]/label[@class=&quot;label-primary mt-2 !w-[2.1rem]&quot;]</value>
+      <webElementGuid>75ea78ae-2959-494c-8f47-4899b076b5c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[4]/div/div[2]/div/label</value>
+      <webElementGuid>d88ab10e-875a-4616-963e-a45ec6815f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div[2]/div/label</value>
+      <webElementGuid>1aa4a387-8ec4-42bd-9b3a-b306ad646e13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>guestProfil</name>
+   <tag></tag>
+   <elementGuidId>b74f2a61-2fe3-4133-be34-f986e0ba38f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scroll']/div/div[2]/div/div/div/nav/div[12]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;GUEST Guest&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09d7ae16-9f96-4bd4-94d4-825ec067f556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile/guest/main/?parent=82&amp;module=null</value>
+      <webElementGuid>a4498795-e853-48bc-8a1f-54e679d877be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-4 items-center px-4 py-2 hover:font-bold hover:bg-[#4f4d4d]  text-white </value>
+      <webElementGuid>ee0bd9f2-69b6-4b12-887b-27677042b491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GUESTGuest</value>
+      <webElementGuid>cee035de-67d2-4233-80cf-af4a6a40b284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/nav[@class=&quot;mt-4&quot;]/div[12]/div[@class=&quot;ps-6&quot;]/a[@class=&quot;flex gap-4 items-center px-4 py-2 hover:font-bold hover:bg-[#4f4d4d]  text-white&quot;]</value>
+      <webElementGuid>556f5f8e-4b8d-4377-a342-44ba51fd0333</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scroll']/div/div[2]/div/div/div/nav/div[12]/div[2]/a</value>
+      <webElementGuid>ced04ca8-905a-4488-b2a7-41dc807b98f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[1]</value>
+      <webElementGuid>b2d7dee2-3367-4d47-a545-3f0094392777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest Request'])[1]/following::a[1]</value>
+      <webElementGuid>75d6e330-4cba-40b1-9c07-12f6e77497c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profile/guest/main/?parent=82&amp;module=null')]</value>
+      <webElementGuid>8c81293e-f6cd-49b3-b506-34a06f748cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>02b5e22b-4f97-4482-bae8-0221810a699c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile/guest/main/?parent=82&amp;module=null' and (text() = 'GUESTGuest' or . = 'GUESTGuest')]</value>
+      <webElementGuid>35b054ed-70e2-4a28-a65e-cbb970dd6bd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

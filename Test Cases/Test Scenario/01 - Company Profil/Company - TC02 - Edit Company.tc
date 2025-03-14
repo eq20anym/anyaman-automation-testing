@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC02 - Edit Company</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35655320-669e-4f09-9b90-27d5cfb99430</testCaseGuid>
+</TestCaseEntity>

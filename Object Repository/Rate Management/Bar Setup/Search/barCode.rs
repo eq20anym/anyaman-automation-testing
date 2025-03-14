@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>barCode</name>
+   <tag></tag>
+   <elementGuidId>27b4833d-7cbb-4015-b128-5fe13008df84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div/div/div[4]/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;BAR BAR 2029&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>869e9414-edb5-4456-ae9b-3993a890649c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-gray-300 p-2  cursor-pointer underline text-[rgba(0,0,255,1)]  relative</value>
+      <webElementGuid>c0faf0e3-c34e-4561-908e-42f16545df75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BAR BAR 2029</value>
+      <webElementGuid>ff0017e3-4a67-4dce-b191-a5b42264ea97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;mt-2 min-w-full table-auto&quot;]/div[1]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;shadow-lg table-auto m-2 min-w-full&quot;]/tbody[@class=&quot;w-full&quot;]/tr[@class=&quot;focus:!bg-[#ead6b4] hover:!bg-[#ead6b4]&quot;]/td[@class=&quot;bg-gray-300 p-2  cursor-pointer underline text-[rgba(0,0,255,1)]  relative&quot;]</value>
+      <webElementGuid>64dd5ae1-4057-42f9-b99f-03a5c06c5697</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div/div/div[4]/table/tbody/tr/td[3]</value>
+      <webElementGuid>6e4c058e-9c88-4bf3-a210-3235b456fec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Code Extra Bed'])[2]/following::td[3]</value>
+      <webElementGuid>f8bb15a0-8057-4b04-8130-b06285703950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Code'])[2]/following::td[4]</value>
+      <webElementGuid>e5c0e83d-602b-4e0d-a5f2-f849bfe254cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test deskirpsi'])[1]/preceding::td[1]</value>
+      <webElementGuid>44bc8c28-eaa0-47d4-8d6f-5c29dcc0f479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROOM REVENUE'])[1]/preceding::td[5]</value>
+      <webElementGuid>5a5a0632-f220-44c1-a428-961ec1efb038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BAR BAR 2029']/parent::*</value>
+      <webElementGuid>de76c44d-daea-4a02-9cd2-56326ab31d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/td[3]</value>
+      <webElementGuid>0e2228df-fd19-4d7e-86c2-25d47a16bb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'BAR BAR 2029' or . = 'BAR BAR 2029')]</value>
+      <webElementGuid>b7b144dc-8fda-41ce-8ac5-e3d2d7bc0cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

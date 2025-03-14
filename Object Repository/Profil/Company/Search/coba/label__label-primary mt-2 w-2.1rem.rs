@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__label-primary mt-2 w-2.1rem</name>
+   <tag></tag>
+   <elementGuidId>f8dc122b-9334-42a0-90e6-2caea9b979eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for = 'broom_type1']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[4]/div/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mt-2 > div > div:nth-child(4) > div > .grid > div > .label-primary >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>779d3c2e-a508-4262-aac5-6e752191073f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>broom_type1</value>
+      <webElementGuid>de069edb-7cc5-4f3d-8ca5-0c71b8dce346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-primary mt-2 !w-[2.1rem]</value>
+      <webElementGuid>e4358066-fa69-4842-9214-7f882d512c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 h-fit  gap-2&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-6&quot;]/div[@class=&quot;mt-2&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4 ml-2 mb-2 mt-2 mr-2&quot;]/div[@class=&quot;col-span-6 border  border-dashed !border-blue rounded-md p-2&quot;]/div[1]/div[@class=&quot;grid grid-cols-12 gap-2&quot;]/div[@class=&quot;custom-toggle-switch toggle-sm col-span-6 items-center lg:flex&quot;]/label[@class=&quot;label-primary mt-2 !w-[2.1rem]&quot;]</value>
+      <webElementGuid>5a68a3ed-f9d5-4259-9998-a5e79a0e4503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[4]/div/div[2]/div/label</value>
+      <webElementGuid>8527ebb4-7b6b-4e40-9946-c4ec6f59e8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div[2]/div/label</value>
+      <webElementGuid>98f7636e-582d-4ce4-b410-b2f013cd77b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

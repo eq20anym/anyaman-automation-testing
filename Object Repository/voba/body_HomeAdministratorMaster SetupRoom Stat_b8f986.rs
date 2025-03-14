@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_HomeAdministratorMaster SetupRoom Stat_b8f986</name>
+   <tag></tag>
+   <elementGuidId>9a443a0d-33a7-487e-8a4e-b1f0bc3a0ef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>c528f00d-b35d-483b-8c8d-12ee006c5787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeAdministratorMaster SetupRoom StatisticRate ManagementHotel CompetitorAccount ReceiveableReportingReservationFront DeskContentConciergeGuest RequestProfileGUESTGuestCOMPANCompanyMerGueMerge GuestPOS TransactionsUtilityHouse KeepingNight auditSystem BalancePostcode BudgetLogout  GUESTProfile/Guest/MainNew User 12 End ShiftMainActiveBlacklistShort Code Title *TitleFirst Name *Last Name *NRIC NRICInsert ID ID Expiry Email Status normalGender GenderNationality NationalityDOB SubscribeGuest Stay Telephone Mobile Phone Fax Address Region AsiaCountry option , selected.50 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.CountryAfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaTimor-LesteGeorgiaHong Kong S.A.R.IndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMacau S.A.R.MalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPalestinian Territory OccupiedPhilippinesQatarSaudi ArabiaSingaporeSri LankaSyriaTaiwanTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemenCity CityPostal Code Car Registration Number Request NotesInformation Close+ AddFrequencyTimeNoteUsernameArrival1-0 of 0Personal/PreferenceLoyalty CardInformation CloseMember TypeMember NumberJoin DateExpired DateDefault1-0 of 0Family MemberInformation Close+ AddSearchPlease Click Search To Find The DataFamily Member NameRelationship1-0 of 0PreferenceInformation Close+ AddRemark1-0 of 0CancelSave Change{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/profile&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;yyz2iLilAAerxNvwz24Vt&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}ANYAMAN - HMS Management profile/guestid(&quot;react-select-59-placeholder&quot;)</value>
+      <webElementGuid>017776a5-e439-4aa7-85a1-a07d7ee4d25f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>c334ccb3-8c39-47c7-bada-d5d0bdc207e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>66148748-d6dc-43f5-8269-50990c4e7e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'HomeAdministratorMaster SetupRoom StatisticRate ManagementHotel CompetitorAccount ReceiveableReportingReservationFront DeskContentConciergeGuest RequestProfileGUESTGuestCOMPANCompanyMerGueMerge GuestPOS TransactionsUtilityHouse KeepingNight auditSystem BalancePostcode BudgetLogout  GUESTProfile/Guest/MainNew User 12 End ShiftMainActiveBlacklistShort Code Title *TitleFirst Name *Last Name *NRIC NRICInsert ID ID Expiry Email Status normalGender GenderNationality NationalityDOB SubscribeGuest Stay Telephone Mobile Phone Fax Address Region AsiaCountry option , selected.50 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.CountryAfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaTimor-LesteGeorgiaHong Kong S.A.R.IndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMacau S.A.R.MalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPalestinian Territory OccupiedPhilippinesQatarSaudi ArabiaSingaporeSri LankaSyriaTaiwanTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemenCity CityPostal Code Car Registration Number Request NotesInformation Close+ AddFrequencyTimeNoteUsernameArrival1-0 of 0Personal/PreferenceLoyalty CardInformation CloseMember TypeMember NumberJoin DateExpired DateDefault1-0 of 0Family MemberInformation Close+ AddSearchPlease Click Search To Find The DataFamily Member NameRelationship1-0 of 0PreferenceInformation Close+ AddRemark1-0 of 0CancelSave Change{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/profile&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;yyz2iLilAAerxNvwz24Vt&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}ANYAMAN - HMS Management profile/guestid(&quot;react-select-59-placeholder&quot;)' or . = 'HomeAdministratorMaster SetupRoom StatisticRate ManagementHotel CompetitorAccount ReceiveableReportingReservationFront DeskContentConciergeGuest RequestProfileGUESTGuestCOMPANCompanyMerGueMerge GuestPOS TransactionsUtilityHouse KeepingNight auditSystem BalancePostcode BudgetLogout  GUESTProfile/Guest/MainNew User 12 End ShiftMainActiveBlacklistShort Code Title *TitleFirst Name *Last Name *NRIC NRICInsert ID ID Expiry Email Status normalGender GenderNationality NationalityDOB SubscribeGuest Stay Telephone Mobile Phone Fax Address Region AsiaCountry option , selected.50 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.CountryAfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaTimor-LesteGeorgiaHong Kong S.A.R.IndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMacau S.A.R.MalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPalestinian Territory OccupiedPhilippinesQatarSaudi ArabiaSingaporeSri LankaSyriaTaiwanTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemenCity CityPostal Code Car Registration Number Request NotesInformation Close+ AddFrequencyTimeNoteUsernameArrival1-0 of 0Personal/PreferenceLoyalty CardInformation CloseMember TypeMember NumberJoin DateExpired DateDefault1-0 of 0Family MemberInformation Close+ AddSearchPlease Click Search To Find The DataFamily Member NameRelationship1-0 of 0PreferenceInformation Close+ AddRemark1-0 of 0CancelSave Change{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/profile&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;yyz2iLilAAerxNvwz24Vt&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}ANYAMAN - HMS Management profile/guestid(&quot;react-select-59-placeholder&quot;)')]</value>
+      <webElementGuid>5f427f87-4636-41ae-a2c1-a5f230425e7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

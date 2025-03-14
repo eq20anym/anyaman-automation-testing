@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC10 - Company Allotment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06626e96-309a-4b87-87a7-cfbc9cacf8f8</testCaseGuid>
+</TestCaseEntity>

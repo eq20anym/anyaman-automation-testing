@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC03 - Corparate Rate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e9420b2-a13a-463e-9a7e-ad2da4a4e0bb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC10 - Edit Guest from Profile, No NRIC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddfab59d-7a09-4f50-afed-a0d510720343</testCaseGuid>
+</TestCaseEntity>

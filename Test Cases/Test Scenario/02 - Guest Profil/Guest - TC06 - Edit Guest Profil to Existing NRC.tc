@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC06 - Edit Guest Profil to Existing NRC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>926883d5-33ea-4d1d-9f4b-9d60faeaffe4</testCaseGuid>
+</TestCaseEntity>

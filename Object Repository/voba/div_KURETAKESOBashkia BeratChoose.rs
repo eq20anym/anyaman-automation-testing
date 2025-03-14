@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KURETAKESOBashkia BeratChoose</name>
+   <tag></tag>
+   <elementGuidId>20e2a01e-7c7a-4b01-ab03-ea1684a7976c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4431b0c-a38b-4447-a9d1-24bd27b58454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shadow-sm bg-white rounded-sm p-4</value>
+      <webElementGuid>0032a5f9-26e9-487c-8710-72d948cb9215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KURETAKESOBashkia BeratChoose</value>
+      <webElementGuid>35e20780-7735-464c-aab1-ab7155248594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-24 pr-4 ps-16 pb-16&quot;]/div[@class=&quot;grid grid-cols-4 gap-8&quot;]/div[@class=&quot;shadow-sm bg-white rounded-sm p-4&quot;]</value>
+      <webElementGuid>61352075-8ff4-42c9-91ab-f1fed0579db5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[13]</value>
+      <webElementGuid>cb271d69-39ad-441c-af84-9010f5113503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[12]/following::div[1]</value>
+      <webElementGuid>7391fcfa-97b6-4612-906d-426a70d1d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Golden Retreat Lombok Villas'])[1]/following::div[3]</value>
+      <webElementGuid>71bb0d5a-7acc-41ff-8c36-79b448a39610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]</value>
+      <webElementGuid>a7185561-dd34-429c-a053-2c59bbadfc45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KURETAKESOBashkia BeratChoose' or . = 'KURETAKESOBashkia BeratChoose')]</value>
+      <webElementGuid>f37876b0-5e10-4cf4-9311-3611efe38c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

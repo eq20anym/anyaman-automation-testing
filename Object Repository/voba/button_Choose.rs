@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Choose</name>
+   <tag></tag>
+   <elementGuidId>d548bf60-4471-4e55-b26f-a870e7b780b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div[13]/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1c0c8fbd-0140-4031-b6d8-e6b278c27b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ti-btn ti-btn-primary !bg-primary !text-white !font-medium  !px-2 !py-1</value>
+      <webElementGuid>31a60329-f6ea-4c36-b997-849f2dd6305a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose</value>
+      <webElementGuid>4c2bdb16-814c-479b-8798-b580e4b3cb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-24 pr-4 ps-16 pb-16&quot;]/div[@class=&quot;grid grid-cols-4 gap-8&quot;]/div[@class=&quot;shadow-sm bg-white rounded-sm p-4&quot;]/div[@class=&quot;flex justify-center mt-4&quot;]/button[@class=&quot;ti-btn ti-btn-primary !bg-primary !text-white !font-medium  !px-2 !py-1&quot;]</value>
+      <webElementGuid>2470fd55-d06f-4db8-91ff-247b52d13e9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[13]/div[4]/button</value>
+      <webElementGuid>af5b99d3-f65a-4574-ae51-e3c10ccfcabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KURETAKESO'])[1]/following::button[1]</value>
+      <webElementGuid>f3a2f611-cf74-4444-8030-73f274942d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[12]/following::button[1]</value>
+      <webElementGuid>0ae11691-ec5f-4928-8ba2-0a188b7e07ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[4]/button</value>
+      <webElementGuid>0208eb3b-c6c6-48a5-8b69-dd00c15d1399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Choose' or . = 'Choose')]</value>
+      <webElementGuid>afd811bf-7a9d-46d8-934c-454cd04743e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

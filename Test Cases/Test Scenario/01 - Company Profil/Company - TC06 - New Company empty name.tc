@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC06 - New Company empty name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>006710ad-9864-42f9-9e1d-9ba33c76139c</testCaseGuid>
+</TestCaseEntity>

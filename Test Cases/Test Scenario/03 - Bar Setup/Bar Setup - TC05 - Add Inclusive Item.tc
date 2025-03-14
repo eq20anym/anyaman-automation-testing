@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bar Setup - TC05 - Add Inclusive Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62881610-11bc-40d1-b2c2-f9ded73b571a</testCaseGuid>
+</TestCaseEntity>

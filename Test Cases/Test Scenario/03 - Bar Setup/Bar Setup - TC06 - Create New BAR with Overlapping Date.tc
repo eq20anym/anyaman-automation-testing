@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bar Setup - TC06 - Create New BAR with Overlapping Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ceeb968e-fc9e-4137-a022-b3d043f96cfe</testCaseGuid>
+</TestCaseEntity>

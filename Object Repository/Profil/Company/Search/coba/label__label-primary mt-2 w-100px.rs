@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__label-primary mt-2 w-100px</name>
+   <tag></tag>
+   <elementGuidId>81ac9cb8-6680-4a09-b893-1f2752552b5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for = 'bdays']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[3]/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mt-2 > div > div:nth-child(3) > div > div > .custom-toggle-switch > .label-primary >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>acd0768f-abcf-48e8-a99f-dfb3efde249f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>bdays</value>
+      <webElementGuid>e056822f-193c-447c-b63d-27e0c732b7fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-primary mt-2 !w-[100px]</value>
+      <webElementGuid>03db5c86-f0d8-40cf-b680-73e90537414a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 h-fit  gap-2&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-6&quot;]/div[@class=&quot;mt-2&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4 ml-2 mb-2 mt-2 mr-2&quot;]/div[@class=&quot;col-span-6 border  border-dashed !border-blue rounded-md p-2&quot;]/div[1]/div[@class=&quot;flex gap-2 mb-2&quot;]/div[@class=&quot;custom-toggle-switch toggle-sm flex items-center flex&quot;]/label[@class=&quot;label-primary mt-2 !w-[100px]&quot;]</value>
+      <webElementGuid>883e6ecc-29b3-495f-95dc-8962045d77a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[3]/div/div/div/label</value>
+      <webElementGuid>f00077f6-ad0d-4b9d-a2b2-f9e8390ed236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/div/label</value>
+      <webElementGuid>79f9fc4a-251f-460c-9065-570b690dc8f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slc_postCode</name>
+   <tag></tag>
+   <elementGuidId>9876caa8-05eb-4bd5-b450-7115eaf72b2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[1]/div/div[2]/div/div/div/div[4]/table/tbody/tr[1]/td[8]/div/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;mt-2 min-w-full table-auto&quot;]/div[1]/div[@class=&quot;h-screen table-responsive&quot;]/table[@class=&quot;shadow-lg table-auto m-2 min-w-full&quot;]/tbody[@class=&quot;w-full&quot;]/tr[@class=&quot;focus:!bg-[#ead6b4] hover:!bg-[#ead6b4]&quot;]/td[@class=&quot;bg-gray-300  p-2&quot;]/div[@class=&quot;flex flex-col gap-1 min-w-max&quot;]/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control css-13cymwt-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]/div[@class=&quot;Select2__input-container css-19bb58m&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Select2__input-container.css-19bb58m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.Select2__input-container >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c870f0c6-59e0-400b-a312-9331ad8b8eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Select2__input-container css-19bb58m</value>
+      <webElementGuid>8ee349a7-bd99-46a0-8545-04fc973468a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;mt-2 min-w-full table-auto&quot;]/div[1]/div[@class=&quot;h-screen table-responsive&quot;]/table[@class=&quot;shadow-lg table-auto m-2 min-w-full&quot;]/tbody[@class=&quot;w-full&quot;]/tr[@class=&quot;focus:!bg-[#ead6b4] hover:!bg-[#ead6b4]&quot;]/td[@class=&quot;bg-gray-300  p-2&quot;]/div[@class=&quot;flex flex-col gap-1 min-w-max&quot;]/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control css-13cymwt-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]/div[@class=&quot;Select2__input-container css-19bb58m&quot;]</value>
+      <webElementGuid>c2a02c52-1c23-445f-847d-21a8e62baa3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='choices-multiple-default']/div/div/div[2]</value>
+      <webElementGuid>5401c2d9-f3e6-4ee2-95ad-19867a1cbf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Post Code'])[1]/following::div[1]</value>
+      <webElementGuid>3b707123-1388-4f8b-a4d0-004cdad35cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[13]</value>
+      <webElementGuid>148b5aba-d979-4db5-921f-7e2d69da6918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Post Code Extra Bed'])[1]/preceding::div[3]</value>
+      <webElementGuid>3806ef25-36b4-42e9-b32e-c2c43f031ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAR 2028'])[1]/preceding::div[13]</value>
+      <webElementGuid>69d5b195-99de-4a6c-94e5-fe2aef8d81c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/div/div/div/div[2]</value>
+      <webElementGuid>1fa82986-eede-4f14-96e3-aa4ba4ea2a3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

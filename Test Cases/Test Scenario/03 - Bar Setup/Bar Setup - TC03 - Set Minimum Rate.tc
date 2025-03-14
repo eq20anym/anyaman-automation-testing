@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bar Setup - TC03 - Set Minimum Rate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>155cddf6-b362-49cd-958f-919809b82300</testCaseGuid>
+</TestCaseEntity>

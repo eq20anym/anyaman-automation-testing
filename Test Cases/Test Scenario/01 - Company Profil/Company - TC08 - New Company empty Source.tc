@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC08 - New Company empty Source</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfa1894f-327e-4747-9d2c-72b57c070e69</testCaseGuid>
+</TestCaseEntity>

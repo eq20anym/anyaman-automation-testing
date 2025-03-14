@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_searchCompany</name>
+   <tag></tag>
+   <elementGuidId>03205f10-50c2-418f-9b37-ac3f12ca3d24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div/div/div/div[3]/fieldset/div/div[8]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>464c63d1-4f2b-4f39-85ca-47a552647c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ti-btn ti-btn-primary !bg-primary !text-white !font-medium  !px-2 !py-1</value>
+      <webElementGuid>b52a6fdb-e60c-49d5-99d5-3607fe84e0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>d54a8178-6f52-4090-b69c-b6f9509574e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute w-full z-20&quot;]/div[@class=&quot;flex   items-center justify-center z-20&quot;]/div[@class=&quot;bg-white p-4  rounded-lg shadow-lg&quot;]/div[@class=&quot;order-3 w-full flex mb-2 mt-2&quot;]/fieldset[@class=&quot;border w-full&quot;]/div[@class=&quot;sm:grid grid-cols-4 gap-2 mt-[20px]  mb-2 justify-end m-2&quot;]/div[@class=&quot;flex items-end&quot;]/div[@class=&quot;flex ml-2 h-[38px] mt-4 gap-4&quot;]/button[@class=&quot;ti-btn ti-btn-primary !bg-primary !text-white !font-medium  !px-2 !py-1&quot;]</value>
+      <webElementGuid>53d2d20d-f84a-46af-8c8f-532289d7f136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/div[2]/div/div/div/div[3]/fieldset/div/div[8]/div/button[2]</value>
+      <webElementGuid>7c23c2b9-40a7-47aa-8ff5-20c27cb24847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>eeec5fea-b157-4c63-9ba3-485ba9fe1824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone'])[1]/following::button[2]</value>
+      <webElementGuid>1a9ca533-8aea-492e-b735-400bf6476384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/preceding::button[1]</value>
+      <webElementGuid>f8c9ceb6-16a2-4fe7-ae6f-156775a1086e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account No.'])[2]/preceding::button[1]</value>
+      <webElementGuid>58da90b7-56de-41ac-990d-f38ba94d258b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/button[2]</value>
+      <webElementGuid>991309d5-6eea-4afa-ba38-cd5b168f12db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>aafc7d36-5650-402b-b7f6-aa1d5e38e401</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

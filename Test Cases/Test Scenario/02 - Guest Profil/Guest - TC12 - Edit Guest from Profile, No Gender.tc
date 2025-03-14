@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC12 - Edit Guest from Profile, No Gender</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25dc0f30-ad50-420c-a616-eda6f4cebc80</testCaseGuid>
+</TestCaseEntity>

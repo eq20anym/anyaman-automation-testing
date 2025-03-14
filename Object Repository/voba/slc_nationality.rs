@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slc_nationality</name>
+   <tag></tag>
+   <elementGuidId>a31d21cf-b577-41f7-bcc1-ac5ebc6398ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Select2__control.Select2__control--is-focused.Select2__control--menu-is-open.css-t3ipsp-control > div.Select2__value-container.css-ovps6s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='choices-multiple-default']/div/div)[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c2552624-297f-48c3-918a-5715c6a0f6dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Select2__value-container css-ovps6s</value>
+      <webElementGuid>1a1a1bfc-9213-4592-8851-d2ebfbdea9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nationality</value>
+      <webElementGuid>a157d537-cb02-49d9-80b0-21aaba152087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;content !mt-[70px] !mb-[10px]  pr-2  pb-16&quot;]/div[@class=&quot;rounded-t-lg p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4&quot;]/div[@class=&quot;col-span-12 grid grid-cols-12 h-fit  gap-4&quot;]/div[@class=&quot;col-span-5&quot;]/fieldset[@class=&quot;border&quot;]/div[@class=&quot;grid grid-cols-12 h-fit gap-4 ml-2 mb-4 mt-2 mr-2&quot;]/div[@class=&quot;col-span-12 xl:col-span-4&quot;]/div[@class=&quot;flex flex-col gap-1 min-w-max&quot;]/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control Select2__control--is-focused Select2__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]</value>
+      <webElementGuid>03a7e51a-6601-4a79-bbc9-fb881e860604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='choices-multiple-default']/div/div)[9]</value>
+      <webElementGuid>61d5b3ca-1adb-4d09-b9fa-d2fa25dfef02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='option , selected.'])[1]/following::div[2]</value>
+      <webElementGuid>08dddb39-afcc-445a-8141-e158bdd7d1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::div[3]</value>
+      <webElementGuid>eef30e7d-b1fa-43d6-a57f-bb2f92c27afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/preceding::div[5]</value>
+      <webElementGuid>d08f426e-3480-41c0-8371-d384315d9e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div</value>
+      <webElementGuid>11e16075-cf5c-4141-afec-d4a1cb76b607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nationality' or . = 'Nationality')]</value>
+      <webElementGuid>f666d095-4db5-4234-b815-b1b1cf013a44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

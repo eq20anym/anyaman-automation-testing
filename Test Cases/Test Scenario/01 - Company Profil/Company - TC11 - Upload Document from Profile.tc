@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Company - TC11 - Upload Document from Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5a44a13-71e7-4d16-bbe4-1a15fede8236</testCaseGuid>
+</TestCaseEntity>

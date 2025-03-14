@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC17 - Upload Document from Profil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edeee981-0f08-4cff-a96a-574a1f1289cf</testCaseGuid>
+</TestCaseEntity>

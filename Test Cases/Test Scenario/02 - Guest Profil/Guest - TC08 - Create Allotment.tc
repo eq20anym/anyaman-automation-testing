@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Guest - TC08 - Create Allotment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>540e3670-86bf-4df0-b3d5-b1969e19800e</testCaseGuid>
+</TestCaseEntity>

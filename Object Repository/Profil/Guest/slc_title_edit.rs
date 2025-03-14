@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slc_title_edit</name>
+   <tag></tag>
+   <elementGuidId>3c824550-abfb-4032-90d3-f489f4ba0353</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control Select2__control--is-focused css-t3ipsp-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[1]/div/div[2]/div/div[2]/div/div/div[1]/fieldset/div[2]/div[4]/div/div/div/div[1]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc35499e-fd36-4751-8f3b-5830359ac4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Select2__value-container css-ovps6s</value>
+      <webElementGuid>8968d52d-80ca-4283-a732-be06cf7e3d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Title</value>
+      <webElementGuid>975752a7-256a-461d-9ea2-b008fdcd0162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;choices-multiple-default&quot;]/div[@class=&quot;Select2__control Select2__control--is-focused css-t3ipsp-control&quot;]/div[@class=&quot;Select2__value-container css-ovps6s&quot;]</value>
+      <webElementGuid>6783b4d0-aa8f-4070-a979-b7e40ee2abb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Title' or . = 'Title')]</value>
+      <webElementGuid>2e82ec04-09dc-4380-a330-2c3965087f40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
