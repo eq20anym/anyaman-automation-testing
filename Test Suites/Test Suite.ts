@@ -56,8 +56,15 @@
    <testCaseLink>
       <guid>611ab5e2-82b1-4c6a-b915-4f44b8e2bf52</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Test Scenario/01 - Company Profil/Company - TC06 - New Company empty name</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>74e21060-a04b-4395-9e65-2e8b171cc2b2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Scenario/05 - Overbooking/TC01 - Set Overbooking</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

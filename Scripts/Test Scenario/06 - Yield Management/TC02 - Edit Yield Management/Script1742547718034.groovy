@@ -22,41 +22,51 @@ WebUI.callTestCase(findTestCase('Additional Test Case/Login as Dev'), [:], Failu
 'Klik Menu Rate Management'
 WebUI.click(findTestObject('Rate Management/Rate Setup/Rate Management'))
 
-WebUI.takeScreenshot()
-
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Rate Management/Overbooking/Overbooking'))
+WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Rate Management/Overbooking/edit'))
+WebUI.scrollToElement(findTestObject('Rate Management/Yield Management/Yield Management'), 2)
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_mjs'), '1')
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_ext'), '1')
+WebUI.click(findTestObject('Rate Management/Yield Management/Yield Management'))
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_dld'), '1')
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_dlh'), '1')
+'Klik Search'
+WebUI.click(findTestObject('Rate Management/Yield Management/Edit/txt_search'))
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_dlt'), '1')
+'Input Keyword'
+WebUI.setText(findTestObject('Rate Management/Yield Management/Edit/txt_keyword'), '')
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_tat'), '1')
+'Klik tombol search'
+WebUI.click(findTestObject('Rate Management/Yield Management/Edit/btn_search'))
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_exd'), '1')
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_tah'), '1')
+'Klik tombol edit'
+WebUI.click(findTestObject('Rate Management/Yield Management/Edit/edit'))
 
-WebUI.click(findTestObject('Rate Management/Overbooking/btn_save'))
+WebUI.takeFullPageScreenshot()
 
-success = WebUI.getText(findTestObject('Rate Management/Overbooking/txt_success'))
 
-if (success.contains(success)) {
-	
-	WebUI.comment('sukses')
-    WebUI.takeScreenshot()
+'Klik tombol save'
+WebUI.click(findTestObject('Rate Management/Yield Management/Edit/btn_save'))
 
-    WebUI.delay(5)
+saveSuccessfully = WebUI.getText(findTestObject('Rate Management/Yield Management/txt_success'))
 
-    WebUI.callTestCase(findTestCase('Additional Test Case/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
+
+if (saveSuccessfully.contains(saveSuccessfully)) {
+	WebUI.takeScreenshot()
+
+	WebUI.comment(saveSuccessfully)
+
+	WebUI.comment('Berhasil Menyimpan')
+
+	WebUI.delay(3)
+
+	WebUI.callTestCase(findTestCase('Additional Test Case/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
 }
+
 

@@ -22,41 +22,9 @@ WebUI.callTestCase(findTestCase('Additional Test Case/Login as Dev'), [:], Failu
 'Klik Menu Rate Management'
 WebUI.click(findTestObject('Rate Management/Rate Setup/Rate Management'))
 
-WebUI.takeScreenshot()
-
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Rate Management/Overbooking/Overbooking'))
+WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Rate Management/Overbooking/edit'))
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_mjs'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_ext'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_dld'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_dlh'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_dlt'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_tat'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_exd'), '1')
-
-WebUI.setText(findTestObject('Rate Management/Overbooking/txt_tah'), '1')
-
-WebUI.click(findTestObject('Rate Management/Overbooking/btn_save'))
-
-success = WebUI.getText(findTestObject('Rate Management/Overbooking/txt_success'))
-
-if (success.contains(success)) {
-	
-	WebUI.comment('sukses')
-    WebUI.takeScreenshot()
-
-    WebUI.delay(5)
-
-    WebUI.callTestCase(findTestCase('Additional Test Case/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
-}
+'Klik Sub Menu Promo Setup'
 
